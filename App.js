@@ -6,7 +6,6 @@ import {
   Montserrat_700Bold,
 } from '@expo-google-fonts/montserrat';
 import AppLoading from 'expo-app-loading';
-;
 import Cesta from './src/telas/index';
 import mock from './src/mocks/cesta';
 
